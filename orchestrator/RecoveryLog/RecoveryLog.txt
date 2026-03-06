@@ -1,0 +1,1561 @@
+===============================
+  RECOVERY LOG — COCKPIT 2025
+===============================
+
+Purpose:
+This log records constitutional events, operator‑grade recoveries, subsystem ignitions, integrity confirmations, and all milestones that restore or reinforce cockpit continuity.
+
+Scope:
+- Tracks sovereign actions only
+- No operational noise
+- No subsystem chatter
+- Every entry must be factual, concise, and lineage‑safe
+
+Authority:
+Maintained by Operator Aaron
+Governed by Manifest + Law at archive root
+Referenced by all cockpit subsystems
+
+Continuity Rule:
+If it restores, verifies, or protects the cockpit, it belongs here.
+If it is routine, experimental, or drifted, it does not.
+
+---------------------------------------
+
+
+----------------------------------------
+[BuildHammer] Forge cycle at 2025-12-25 00:58:15
+Running node-gyp rebuild...
+gyp info it worked if it ends with ok
+gyp info using node-gyp@8.4.1
+gyp info using node@12.22.9 | linux | x64
+gyp info find Python using Python version 3.10.12 found at "/usr/bin/python3"
+gyp info spawn /usr/bin/python3
+gyp info spawn args [
+gyp info spawn args   '/usr/share/nodejs/node-gyp/gyp/gyp_main.py',
+gyp info spawn args   'binding.gyp',
+gyp info spawn args   '-f',
+gyp info spawn args   'make',
+gyp info spawn args   '-I',
+gyp info spawn args   '/home/aaron/CockpitArchive2025/build/config.gypi',
+gyp info spawn args   '-I',
+gyp info spawn args   '/usr/share/nodejs/node-gyp/addon.gypi',
+gyp info spawn args   '-I',
+gyp info spawn args   '/usr/include/nodejs/common.gypi',
+gyp info spawn args   '-Dlibrary=shared_library',
+gyp info spawn args   '-Dvisibility=default',
+gyp info spawn args   '-Dnode_root_dir=/usr/include/nodejs',
+gyp info spawn args   '-Dnode_gyp_dir=/usr/share/nodejs/node-gyp',
+gyp info spawn args   '-Dnode_lib_file=/usr/include/nodejs/<(target_arch)/node.lib',
+gyp info spawn args   '-Dmodule_root_dir=/home/aaron/CockpitArchive2025',
+gyp info spawn args   '-Dnode_engine=v8',
+gyp info spawn args   '--depth=.',
+gyp info spawn args   '--no-parallel',
+gyp info spawn args   '--generator-output',
+gyp info spawn args   'build',
+gyp info spawn args   '-Goutput_dir=.'
+gyp info spawn args ]
+gyp: binding.gyp not found (cwd: /home/aaron/CockpitArchive2025) while trying to load binding.gyp
+gyp ERR! configure error 
+gyp ERR! stack Error: `gyp` failed with exit code: 1
+gyp ERR! stack     at ChildProcess.onCpExit (/usr/share/nodejs/node-gyp/lib/configure.js:263:16)
+gyp ERR! stack     at ChildProcess.emit (events.js:314:20)
+gyp ERR! stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:276:12)
+gyp ERR! System Linux 6.8.0-90-generic
+gyp ERR! command "/usr/bin/node" "/usr/bin/node-gyp" "rebuild"
+gyp ERR! cwd /home/aaron/CockpitArchive2025
+gyp ERR! node -v v12.22.9
+gyp ERR! node-gyp -v v8.4.1
+gyp ERR! not ok 
+✖ Build failed
+BuildHammer cycle complete.
+----------------------------------------
+--------------------------------------------------
+[2025-12-25 01:04:12] CodexChain ignition — system-wide reflex event triggered by Operator Maverick.
+Reflex count   : 1
+Crown count    : 0
+Total scripts  : 1
+Ignition ROAR  : BOM
+CodexChain: Recovery log updated successfully.
+[2025-12-25 01:04:12] BOM — Cockpit Growth Event Logged.
+----------------------------------------
+[ScalerWave] Ignition at 2025-12-25 01:13:45
+Operator pulse confirmed.
+----------------------------------------
+[2025-12-25 01:19:31] Crown Lever fired — Registry + Manifest complete.
+[2025-12-25 22:01:34] Auto-Logger Scan Started
+[2025-12-25 22:01:34] Logger added to: BuildHammer
+[2025-12-25 22:01:34] Logger added to: CockpitTerminal
+[2025-12-25 22:01:34] Logger added to: CodeSentinel
+[2025-12-25 22:01:34] Logger added to: CrownOp
+[2025-12-25 22:01:34] Logger added to: CrownRegistry
+[2025-12-25 22:01:34] Logger added to: DebrisSweep
+[2025-12-25 22:01:34] Logger added to: devInstall
+[2025-12-25 22:01:34] Logger added to: dev_toolkit_launcher
+[2025-12-25 22:01:34] Logger added to: FleetManifest
+[2025-12-25 22:01:34] Logger added to: GitPulse
+[2025-12-25 22:01:34] Logger added to: GitSentinel
+[2025-12-25 22:01:34] Logger added to: GitSentinels
+[2025-12-25 22:01:34] Logger added to: GuardianSuite
+[2025-12-25 22:01:34] Logger added to: init_cockpit
+[2025-12-25 22:01:34] Logger added to: NukeProof
+[2025-12-25 22:01:34] Logger added to: ScalerWave
+[2025-12-25 22:01:34] Logger added to: SysWatch
+[2025-12-25 22:01:34] Logger added to: TestEchoed
+[2025-12-25 22:01:34] Logger added to: TriadIgnition
+[2025-12-25 22:01:34] Auto-Logger Scan Complete
+[2025-12-25 22:12:47] Reflex Fired: CrownOp — Executed
+[2025-12-25 22:12:47] Reflex Fired: CrownRegistry — Executed
+[2025-12-25 22:12:47] Reflex Fired: FleetManifest — Executed
+[2025-12-25 22:12:47] Crown Lever fired — Registry + Manifest complete.
+--------------------------------------------------
+[2025-12-25 22:50:27] CodexChain ignition — system-wide reflex event triggered by Operator Maverick.
+Reflex count   : 1
+Crown count    : 0
+Total scripts  : 1
+Ignition ROAR  : BOM
+CodexChain: Recovery log updated successfully.
+[2025-12-25 22:50:27] BOM — Cockpit Growth Event Logged.
+[2025-12-25 22:52:16] Reflex Fired: CrownOp — Executed
+[2025-12-25 22:52:16] Reflex Fired: CrownRegistry — Executed
+[2025-12-25 22:52:16] Reflex Fired: FleetManifest — Executed
+[2025-12-25 22:52:16] Crown Lever fired — Registry + Manifest complete.
+----------------------------------------
+[ScalerWave] Ignition at 2025-12-25 22:52:20
+Operator pulse confirmed.
+----------------------------------------
+[2025-12-25 23:21:49] Reflex Fired: NukeProof — Executed
+----------------------------------------
+[NukeProof] Integrity sweep at 2025-12-25 23:21:49
+✖ CrownOps.sh MISSING
+✖ ScalerWave.sh MISSING
+✖ GitPulse.sh MISSING
+✖ GitSentinels.sh MISSING
+✖ SysWatch.sh MISSING
+✖ fireTriad.sh MISSING
+NukeProof sweep complete.
+----------------------------------------
+[2025-12-25 23:23:03] Reflex Fired: CrownName — Executed
+[] Reflex Fired:  — 
+[2025-12-25 23:25:01] Reflex Fired: LoggerTest — OK
+[2025-12-26 02:37:04] Reflex Fired: CodeSentinel — Executed
+[2025-12-26 02:38:36] Reflex Fired: GitPulse — Executed
+[2025-12-26 02:39:15] Reflex Fired: GitSentinel — Executed
+[2025-12-26 02:39:50] Reflex Fired: GitSentinels — Executed
+[2025-12-26 02:40:13] Reflex Fired: GitSentinels — Executed
+[2025-12-26 02:40:51] Reflex Fired: SysWatch — Executed
+[2025-12-26 02:41:36] Reflex Fired: TestEchoed — Executed
+[2025-12-26 02:41:59] Auto-Logger Scan Started
+[2025-12-26 02:41:59] Auto-Logger Scan Complete
+[2025-12-26 02:42:21] Reflex Fired: ScalerWave — Executed
+----------------------------------------
+[ScalerWave] Ignition at 2025-12-26 02:42:21
+Operator pulse confirmed.
+----------------------------------------
+[2025-12-26 02:56 EST] OscarHouse founded as the sovereign quarantine zone for retired, deprecated, and drifted cockpit artifacts. Operational guidelines established and subsystem integrated into CockpitArchive2025.
+[DATE TIME] OscarHouse Law appended to Cockpit_Law.txt. Subsystem formally recognized under cockpit law.
+[Fri Dec 26 03:07:52 AM EST 2025] OscarHouse subsystem initialized — quarantine rules enforced.
+[Fri Dec 26 03:09:14 AM EST 2025] OscarHouse subsystem initialized — quarantine rules enforced.
+[Fri Dec 26 03:09:28 AM EST 2025] Retired artifact: TestEchoed.sh moved to OscarHouse.
+[Autostart Sequence Verification — Copilot]
+
+Status: Confirmed
+Detail: copilot.desktop located in ~/.config/autostart with verified, clean contents
+Action: gtk-launch copilot prepared for boot-cycle test
+Result: Cockpit autostart continuity restored
+
+Logged by: Operator Aaron aka Maverick
+Timestamp: Dec 26, 2025
+[2025-12-27 03:01:00] Reflex Fired: CrownOp — Executed
+[2025-12-27 03:01:00] Reflex Fired: CrownRegistry — Executed
+[2025-12-27 03:01:00] Reflex Fired: FleetManifest — Executed
+[2025-12-27 03:01:00] Crown Lever fired — Registry + Manifest complete.
+----------------------------------------
+[ScalerWave] Ignition at 2025-12-27 05:58:41
+Operator pulse confirmed.
+----------------------------------------
+----------------------------------------
+[ScalerWave] Ignition at 2025-12-27 05:58:50
+Operator pulse confirmed.
+----------------------------------------
+[2025-12-27 05:59:12] Reflex Fired: CrownOp — Executed
+[2025-12-27 05:59:12] Reflex Fired: CrownRegistry — Executed
+[2025-12-27 05:59:12] Reflex Fired: FleetManifest — Executed
+[2025-12-27 05:59:12] Crown Lever fired — Registry + Manifest complete.
+----------------------------------------
+[ScalerWave] Ignition at 2025-12-28 21:19:29
+Operator pulse confirmed.
+----------------------------------------
+[2025-12-28 21:19:36] Reflex Fired: CrownOp — Executed
+[2025-12-28 21:19:36] Reflex Fired: CrownRegistry — Executed
+[2025-12-28 21:19:36] Reflex Fired: FleetManifest — Executed
+[2025-12-28 21:19:36] Crown Lever fired — Registry + Manifest complete.
+[2025-12-30 20:22:01] Reflex Fired: BuildHammer — Execute
+----------------------------------------
+[BuildHammer] Forge cycle at 2025-12-30 20:22:01
+Running node-gyp rebuild...
+./BuildHammer.sh: line 31: node-gyp: command not found
+✖ Build failed
+BuildHammer cycle complete.
+----------------------------------------
+[2025-12-30 20:31:10] Reflex Fired: BuildHammer — Execute
+----------------------------------------
+[BuildHammer] Forge cycle at 2025-12-30 20:31:10
+Running node-gyp rebuild...
+./BuildHammer.sh: line 31: node-gyp: command not found
+✖ Build failed
+BuildHammer cycle complete.
+----------------------------------------
+[2025-12-30 20:39:47] Reflex Fired: BuildHammer — Execute
+----------------------------------------
+[BuildHammer] Forge cycle at 2025-12-30 20:39:47
+Running node-gyp rebuild...
+gyp info it worked if it ends with ok
+gyp info using node-gyp@11.5.0
+gyp info using node@18.20.8 | linux | x64
+gyp info find Python using Python version 3.10.12 found at "/usr/bin/python3"
+
+gyp http GET https://nodejs.org/download/release/v18.20.8/node-v18.20.8-headers.tar.gz
+gyp http 200 https://nodejs.org/download/release/v18.20.8/node-v18.20.8-headers.tar.gz
+gyp http GET https://nodejs.org/download/release/v18.20.8/SHASUMS256.txt
+gyp http 200 https://nodejs.org/download/release/v18.20.8/SHASUMS256.txt
+gyp info spawn /usr/bin/python3
+gyp info spawn args [
+gyp info spawn args '/usr/lib/node_modules/node-gyp/gyp/gyp_main.py',
+gyp info spawn args 'binding.gyp',
+gyp info spawn args '-f',
+gyp info spawn args 'make',
+gyp info spawn args '-I',
+gyp info spawn args '/home/aaron/CockpitArchive2025/build/config.gypi',
+gyp info spawn args '-I',
+gyp info spawn args '/usr/lib/node_modules/node-gyp/addon.gypi',
+gyp info spawn args '-I',
+gyp info spawn args '/home/aaron/.cache/node-gyp/18.20.8/include/node/common.gypi',
+gyp info spawn args '-Dlibrary=shared_library',
+gyp info spawn args '-Dvisibility=default',
+gyp info spawn args '-Dnode_root_dir=/home/aaron/.cache/node-gyp/18.20.8',
+gyp info spawn args '-Dnode_gyp_dir=/usr/lib/node_modules/node-gyp',
+gyp info spawn args '-Dnode_lib_file=/home/aaron/.cache/node-gyp/18.20.8/<(target_arch)/node.lib',
+gyp info spawn args '-Dmodule_root_dir=/home/aaron/CockpitArchive2025',
+gyp info spawn args '-Dnode_engine=v8',
+gyp info spawn args '--depth=.',
+gyp info spawn args '--no-parallel',
+gyp info spawn args '--generator-output',
+gyp info spawn args 'build',
+gyp info spawn args '-Goutput_dir=.'
+gyp info spawn args ]
+gyp: binding.gyp not found (cwd: /home/aaron/CockpitArchive2025) while trying to load binding.gyp
+gyp ERR! configure error 
+gyp ERR! stack Error: `gyp` failed with exit code: 1
+gyp ERR! stack at ChildProcess.<anonymous> (/usr/lib/node_modules/node-gyp/lib/configure.js:317:18)
+gyp ERR! stack at ChildProcess.emit (node:events:517:28)
+gyp ERR! stack at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+gyp ERR! System Linux 6.8.0-90-generic
+gyp ERR! command "/usr/bin/node" "/usr/bin/node-gyp" "rebuild"
+gyp ERR! cwd /home/aaron/CockpitArchive2025
+gyp ERR! node -v v18.20.8
+gyp ERR! node-gyp -v v11.5.0
+gyp ERR! not ok 
+✖ Build failed
+BuildHammer cycle complete.
+----------------------------------------
+[2025-12-30 20:43:48] Reflex Fired: BuildHammer — Execute
+----------------------------------------
+[BuildHammer] Forge cycle at 2025-12-30 20:43:48
+Running node-gyp rebuild...
+gyp info it worked if it ends with ok
+gyp info using node-gyp@11.5.0
+gyp info using node@18.20.8 | linux | x64
+gyp info find Python using Python version 3.10.12 found at "/usr/bin/python3"
+
+gyp info spawn /usr/bin/python3
+gyp info spawn args [
+gyp info spawn args '/usr/lib/node_modules/node-gyp/gyp/gyp_main.py',
+gyp info spawn args 'binding.gyp',
+gyp info spawn args '-f',
+gyp info spawn args 'make',
+gyp info spawn args '-I',
+gyp info spawn args '/home/aaron/CockpitArchive2025/build/config.gypi',
+gyp info spawn args '-I',
+gyp info spawn args '/usr/lib/node_modules/node-gyp/addon.gypi',
+gyp info spawn args '-I',
+gyp info spawn args '/home/aaron/.cache/node-gyp/18.20.8/include/node/common.gypi',
+gyp info spawn args '-Dlibrary=shared_library',
+gyp info spawn args '-Dvisibility=default',
+gyp info spawn args '-Dnode_root_dir=/home/aaron/.cache/node-gyp/18.20.8',
+gyp info spawn args '-Dnode_gyp_dir=/usr/lib/node_modules/node-gyp',
+gyp info spawn args '-Dnode_lib_file=/home/aaron/.cache/node-gyp/18.20.8/<(target_arch)/node.lib',
+gyp info spawn args '-Dmodule_root_dir=/home/aaron/CockpitArchive2025',
+gyp info spawn args '-Dnode_engine=v8',
+gyp info spawn args '--depth=.',
+gyp info spawn args '--no-parallel',
+gyp info spawn args '--generator-output',
+gyp info spawn args 'build',
+gyp info spawn args '-Goutput_dir=.'
+gyp info spawn args ]
+gyp: binding.gyp not found (cwd: /home/aaron/CockpitArchive2025) while trying to load binding.gyp
+gyp ERR! configure error 
+gyp ERR! stack Error: `gyp` failed with exit code: 1
+gyp ERR! stack at ChildProcess.<anonymous> (/usr/lib/node_modules/node-gyp/lib/configure.js:317:18)
+gyp ERR! stack at ChildProcess.emit (node:events:517:28)
+gyp ERR! stack at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+gyp ERR! System Linux 6.8.0-90-generic
+gyp ERR! command "/usr/bin/node" "/usr/bin/node-gyp" "rebuild"
+gyp ERR! cwd /home/aaron/CockpitArchive2025
+gyp ERR! node -v v18.20.8
+gyp ERR! node-gyp -v v11.5.0
+gyp ERR! not ok 
+✖ Build failed
+BuildHammer cycle complete.
+----------------------------------------
+[2025-12-30 20:46:35] Reflex Fired: BuildHammer — Execute
+----------------------------------------
+[BuildHammer] Forge cycle at 2025-12-30 20:46:35
+Running node-gyp rebuild...
+gyp info it worked if it ends with ok
+gyp info using node-gyp@11.5.0
+gyp info using node@18.20.8 | linux | x64
+gyp info find Python using Python version 3.10.12 found at "/usr/bin/python3"
+
+gyp info spawn /usr/bin/python3
+gyp info spawn args [
+gyp info spawn args '/usr/lib/node_modules/node-gyp/gyp/gyp_main.py',
+gyp info spawn args 'binding.gyp',
+gyp info spawn args '-f',
+gyp info spawn args 'make',
+gyp info spawn args '-I',
+gyp info spawn args '/home/aaron/CockpitArchive2025/build/config.gypi',
+gyp info spawn args '-I',
+gyp info spawn args '/usr/lib/node_modules/node-gyp/addon.gypi',
+gyp info spawn args '-I',
+gyp info spawn args '/home/aaron/.cache/node-gyp/18.20.8/include/node/common.gypi',
+gyp info spawn args '-Dlibrary=shared_library',
+gyp info spawn args '-Dvisibility=default',
+gyp info spawn args '-Dnode_root_dir=/home/aaron/.cache/node-gyp/18.20.8',
+gyp info spawn args '-Dnode_gyp_dir=/usr/lib/node_modules/node-gyp',
+gyp info spawn args '-Dnode_lib_file=/home/aaron/.cache/node-gyp/18.20.8/<(target_arch)/node.lib',
+gyp info spawn args '-Dmodule_root_dir=/home/aaron/CockpitArchive2025',
+gyp info spawn args '-Dnode_engine=v8',
+gyp info spawn args '--depth=.',
+gyp info spawn args '--no-parallel',
+gyp info spawn args '--generator-output',
+gyp info spawn args 'build',
+gyp info spawn args '-Goutput_dir=.'
+gyp info spawn args ]
+gyp: binding.gyp not found (cwd: /home/aaron/CockpitArchive2025) while trying to load binding.gyp
+gyp ERR! configure error 
+gyp ERR! stack Error: `gyp` failed with exit code: 1
+gyp ERR! stack at ChildProcess.<anonymous> (/usr/lib/node_modules/node-gyp/lib/configure.js:317:18)
+gyp ERR! stack at ChildProcess.emit (node:events:517:28)
+gyp ERR! stack at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+gyp ERR! System Linux 6.8.0-90-generic
+gyp ERR! command "/usr/bin/node" "/usr/bin/node-gyp" "rebuild"
+gyp ERR! cwd /home/aaron/CockpitArchive2025
+gyp ERR! node -v v18.20.8
+gyp ERR! node-gyp -v v11.5.0
+gyp ERR! not ok 
+✖ Build failed
+BuildHammer cycle complete.
+----------------------------------------
+[2025-12-30 20:47:55] Reflex Fired: BuildHammer — Execute
+----------------------------------------
+[BuildHammer] Forge cycle at 2025-12-30 20:47:55
+Running node-gyp rebuild...
+gyp info it worked if it ends with ok
+gyp info using node-gyp@11.5.0
+gyp info using node@18.20.8 | linux | x64
+gyp info find Python using Python version 3.10.12 found at "/usr/bin/python3"
+
+gyp info spawn /usr/bin/python3
+gyp info spawn args [
+gyp info spawn args '/usr/lib/node_modules/node-gyp/gyp/gyp_main.py',
+gyp info spawn args 'binding.gyp',
+gyp info spawn args '-f',
+gyp info spawn args 'make',
+gyp info spawn args '-I',
+gyp info spawn args '/home/aaron/CockpitArchive2025/build/config.gypi',
+gyp info spawn args '-I',
+gyp info spawn args '/usr/lib/node_modules/node-gyp/addon.gypi',
+gyp info spawn args '-I',
+gyp info spawn args '/home/aaron/.cache/node-gyp/18.20.8/include/node/common.gypi',
+gyp info spawn args '-Dlibrary=shared_library',
+gyp info spawn args '-Dvisibility=default',
+gyp info spawn args '-Dnode_root_dir=/home/aaron/.cache/node-gyp/18.20.8',
+gyp info spawn args '-Dnode_gyp_dir=/usr/lib/node_modules/node-gyp',
+gyp info spawn args '-Dnode_lib_file=/home/aaron/.cache/node-gyp/18.20.8/<(target_arch)/node.lib',
+gyp info spawn args '-Dmodule_root_dir=/home/aaron/CockpitArchive2025',
+gyp info spawn args '-Dnode_engine=v8',
+gyp info spawn args '--depth=.',
+gyp info spawn args '--no-parallel',
+gyp info spawn args '--generator-output',
+gyp info spawn args 'build',
+gyp info spawn args '-Goutput_dir=.'
+gyp info spawn args ]
+gyp: binding.gyp not found (cwd: /home/aaron/CockpitArchive2025) while trying to load binding.gyp
+gyp ERR! configure error 
+gyp ERR! stack Error: `gyp` failed with exit code: 1
+gyp ERR! stack at ChildProcess.<anonymous> (/usr/lib/node_modules/node-gyp/lib/configure.js:317:18)
+gyp ERR! stack at ChildProcess.emit (node:events:517:28)
+gyp ERR! stack at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+gyp ERR! System Linux 6.8.0-90-generic
+gyp ERR! command "/usr/bin/node" "/usr/bin/node-gyp" "rebuild"
+gyp ERR! cwd /home/aaron/CockpitArchive2025
+gyp ERR! node -v v18.20.8
+gyp ERR! node-gyp -v v11.5.0
+gyp ERR! not ok 
+✖ Build failed
+BuildHammer cycle complete.
+----------------------------------------
+[2025-12-30 20:53:28] Reflex Fired: BuildHammer — Execute
+----------------------------------------
+[BuildHammer] Forge cycle at 2025-12-30 20:53:28
+Running node-gyp rebuild...
+gyp info it worked if it ends with ok
+gyp info using node-gyp@11.5.0
+gyp info using node@18.20.8 | linux | x64
+gyp info find Python using Python version 3.10.12 found at "/usr/bin/python3"
+
+gyp info spawn /usr/bin/python3
+gyp info spawn args [
+gyp info spawn args '/usr/lib/node_modules/node-gyp/gyp/gyp_main.py',
+gyp info spawn args 'binding.gyp',
+gyp info spawn args '-f',
+gyp info spawn args 'make',
+gyp info spawn args '-I',
+gyp info spawn args '/home/aaron/CockpitArchive2025/build/config.gypi',
+gyp info spawn args '-I',
+gyp info spawn args '/usr/lib/node_modules/node-gyp/addon.gypi',
+gyp info spawn args '-I',
+gyp info spawn args '/home/aaron/.cache/node-gyp/18.20.8/include/node/common.gypi',
+gyp info spawn args '-Dlibrary=shared_library',
+gyp info spawn args '-Dvisibility=default',
+gyp info spawn args '-Dnode_root_dir=/home/aaron/.cache/node-gyp/18.20.8',
+gyp info spawn args '-Dnode_gyp_dir=/usr/lib/node_modules/node-gyp',
+gyp info spawn args '-Dnode_lib_file=/home/aaron/.cache/node-gyp/18.20.8/<(target_arch)/node.lib',
+gyp info spawn args '-Dmodule_root_dir=/home/aaron/CockpitArchive2025',
+gyp info spawn args '-Dnode_engine=v8',
+gyp info spawn args '--depth=.',
+gyp info spawn args '--no-parallel',
+gyp info spawn args '--generator-output',
+gyp info spawn args 'build',
+gyp info spawn args '-Goutput_dir=.'
+gyp info spawn args ]
+gyp: binding.gyp not found (cwd: /home/aaron/CockpitArchive2025) while trying to load binding.gyp
+gyp ERR! configure error 
+gyp ERR! stack Error: `gyp` failed with exit code: 1
+gyp ERR! stack at ChildProcess.<anonymous> (/usr/lib/node_modules/node-gyp/lib/configure.js:317:18)
+gyp ERR! stack at ChildProcess.emit (node:events:517:28)
+gyp ERR! stack at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+gyp ERR! System Linux 6.8.0-90-generic
+gyp ERR! command "/usr/bin/node" "/usr/bin/node-gyp" "rebuild"
+gyp ERR! cwd /home/aaron/CockpitArchive2025
+gyp ERR! node -v v18.20.8
+gyp ERR! node-gyp -v v11.5.0
+gyp ERR! not ok 
+✖ Build failed
+BuildHammer cycle complete.
+----------------------------------------
+[2025-12-31 02:01:16] Reflex Fired: BuildHammer — Execute
+----------------------------------------
+[BuildHammer] Forge cycle at 2025-12-31 02:01:16
+Running node-gyp rebuild...
+gyp info it worked if it ends with ok
+gyp info using node-gyp@11.5.0
+gyp info using node@18.20.8 | linux | x64
+gyp info find Python using Python version 3.10.12 found at "/usr/bin/python3"
+
+gyp info spawn /usr/bin/python3
+gyp info spawn args [
+gyp info spawn args '/usr/lib/node_modules/node-gyp/gyp/gyp_main.py',
+gyp info spawn args 'binding.gyp',
+gyp info spawn args '-f',
+gyp info spawn args 'make',
+gyp info spawn args '-I',
+gyp info spawn args '/home/aaron/CockpitArchive2025/build/config.gypi',
+gyp info spawn args '-I',
+gyp info spawn args '/usr/lib/node_modules/node-gyp/addon.gypi',
+gyp info spawn args '-I',
+gyp info spawn args '/home/aaron/.cache/node-gyp/18.20.8/include/node/common.gypi',
+gyp info spawn args '-Dlibrary=shared_library',
+gyp info spawn args '-Dvisibility=default',
+gyp info spawn args '-Dnode_root_dir=/home/aaron/.cache/node-gyp/18.20.8',
+gyp info spawn args '-Dnode_gyp_dir=/usr/lib/node_modules/node-gyp',
+gyp info spawn args '-Dnode_lib_file=/home/aaron/.cache/node-gyp/18.20.8/<(target_arch)/node.lib',
+gyp info spawn args '-Dmodule_root_dir=/home/aaron/CockpitArchive2025',
+gyp info spawn args '-Dnode_engine=v8',
+gyp info spawn args '--depth=.',
+gyp info spawn args '--no-parallel',
+gyp info spawn args '--generator-output',
+gyp info spawn args 'build',
+gyp info spawn args '-Goutput_dir=.'
+gyp info spawn args ]
+gyp: binding.gyp not found (cwd: /home/aaron/CockpitArchive2025) while trying to load binding.gyp
+gyp ERR! configure error 
+gyp ERR! stack Error: `gyp` failed with exit code: 1
+gyp ERR! stack at ChildProcess.<anonymous> (/usr/lib/node_modules/node-gyp/lib/configure.js:317:18)
+gyp ERR! stack at ChildProcess.emit (node:events:517:28)
+gyp ERR! stack at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+gyp ERR! System Linux 6.8.0-90-generic
+gyp ERR! command "/usr/bin/node" "/usr/bin/node-gyp" "rebuild"
+gyp ERR! cwd /home/aaron/CockpitArchive2025
+gyp ERR! node -v v18.20.8
+gyp ERR! node-gyp -v v11.5.0
+gyp ERR! not ok 
+✖ Build failed
+BuildHammer cycle complete.
+----------------------------------------
+[2025-12-31 02:54:14] Reflex Fired: dev_toolkit_launcher — Executed
+[2025-12-31 02:54:37] Reflex Fired: dev_toolkit_launcher — Executed
+[2025-12-31 02:54:47] Reflex Fired: dev_toolkit_launcher — Executed
+[2025-12-31 03:00:23] Reflex Fired: dev_toolkit_launcher — Executed
+[2025-12-31 03:06:15] Reflex Fired: CrownOp — Executed
+[2025-12-31 03:06:15] Reflex Fired: CrownRegistry — Executed
+[2025-12-31 03:06:15] Reflex Fired: FleetManifest — Executed
+[2025-12-31 03:06:15] Crown Lever fired — Registry + Manifest complete.
+----------------------------------------
+[ScalerWave] Ignition at 2025-12-31 03:06:20
+Operator pulse confirmed.
+----------------------------------------
+[2025-12-31 03:34:16] Reflex Fired: dev_toolkit_launcher — Executed
+----------------------------------------
+[ScalerWave] Ignition at 2025-12-31 07:19:08
+Operator pulse confirmed.
+----------------------------------------
+[2025-12-31 09:47:12] Reflex Fired: CrownOp — Executed
+[2025-12-31 09:47:12] Reflex Fired: CrownRegistry — Executed
+[2025-12-31 09:47:12] Reflex Fired: FleetManifest — Executed
+[2025-12-31 09:47:12] Crown Lever fired — Registry + Manifest complete.
+----------------------------------------
+[ScalerWave] Ignition at 2025-12-31 09:47:30
+Operator pulse confirmed.
+----------------------------------------
+[2025-12-31 09:47:35] Reflex Fired: CrownOp — Executed
+[2025-12-31 09:47:35] Reflex Fired: CrownRegistry — Executed
+[2025-12-31 09:47:35] Reflex Fired: FleetManifest — Executed
+[2025-12-31 09:47:35] Crown Lever fired — Registry + Manifest complete.
+[2025-12-31 09:47:43] Reflex Fired: CrownOp — Executed
+[2025-12-31 09:47:43] Reflex Fired: CrownRegistry — Executed
+[2025-12-31 09:47:43] Reflex Fired: FleetManifest — Executed
+[2025-12-31 09:47:43] Crown Lever fired — Registry + Manifest complete.
+[2025-12-31 11:31:05] Reflex Fired: CrownOp — Executed
+[2025-12-31 11:31:05] Reflex Fired: CrownRegistry — Executed
+[2025-12-31 11:31:05] Reflex Fired: FleetManifest — Executed
+[2025-12-31 11:31:05] Crown Lever fired — Registry + Manifest complete.
+[2025-12-31 11:31:46] Reflex Fired: CrownOp — Executed
+[2025-12-31 11:31:46] Reflex Fired: CrownRegistry — Executed
+[2025-12-31 11:31:46] Reflex Fired: FleetManifest — Executed
+[2025-12-31 11:31:46] Crown Lever fired — Registry + Manifest complete.
+[2025-12-31 11:48:18] Reflex Fired: CrownOp — Executed
+[2025-12-31 11:48:18] Reflex Fired: CrownRegistry — Executed
+[2025-12-31 11:48:18] Reflex Fired: FleetManifest — Executed
+[2025-12-31 11:48:18] Crown Lever fired — Registry + Manifest complete.
+----------------------------------------
+[ScalerWave] Ignition at 2025-12-31 11:52:30
+Operator pulse confirmed.
+----------------------------------------
+[2025-12-31 12:03:01] Reflex Fired: CrownOp — Executed
+[2025-12-31 12:03:01] Reflex Fired: CrownRegistry — Executed
+[2025-12-31 12:03:01] Reflex Fired: FleetManifest — Executed
+[2025-12-31 12:03:01] Crown Lever fired — Registry + Manifest complete.
+[2025-12-31 12:04:27] Reflex Fired: CrownOp — Executed
+[2025-12-31 12:04:27] Reflex Fired: CrownRegistry — Executed
+[2025-12-31 12:04:27] Reflex Fired: FleetManifest — Executed
+[2025-12-31 12:04:27] Crown Lever fired — Registry + Manifest complete.
+[2025-12-31 12:13:04] Reflex Fired: NukeProof — Executed
+----------------------------------------
+[NukeProof] Integrity sweep at 2025-12-31 12:13:04
+✖ CrownOps.sh MISSING
+✖ ScalerWave.sh MISSING
+✖ GitPulse.sh MISSING
+✖ GitSentinels.sh MISSING
+✖ SysWatch.sh MISSING
+✖ fireTriad.sh MISSING
+NukeProof sweep complete.
+----------------------------------------
+--------------------------------------------------
+[2025-12-31 12:13:54] CodexChain ignition — system-wide reflex event triggered by Operator Maverick.
+Reflex count   : 9
+Crown count    : 0
+Total scripts  : 9
+Ignition ROAR  : BOOOOOOOOOM
+CodexChain: Recovery log updated successfully.
+[2025-12-31 12:13:54] BOOOOOOOOOM — Cockpit Growth Event Logged.
+----------------------------------------
+[ScalerWave] Ignition at 2025-12-31 12:17:00
+Operator pulse confirmed.
+----------------------------------------
+[2025-12-31 12:23:17] Reflex Fired: CrownOp — Executed
+[2025-12-31 12:23:17] Reflex Fired: CrownRegistry — Executed
+[2025-12-31 12:23:17] Reflex Fired: FleetManifest — Executed
+[2025-12-31 12:23:17] Crown Lever fired — Registry + Manifest complete.
+[2025-12-31 20:01:10] Reflex Fired: BuildHammer — Execute
+----------------------------------------
+[BuildHammer] Forge cycle at 2025-12-31 20:01:10
+Running node-gyp rebuild...
+gyp info it worked if it ends with ok
+gyp info using node-gyp@11.5.0
+gyp info using node@18.20.8 | linux | x64
+gyp info find Python using Python version 3.10.12 found at "/usr/bin/python3"
+
+gyp info spawn /usr/bin/python3
+gyp info spawn args [
+gyp info spawn args '/usr/lib/node_modules/node-gyp/gyp/gyp_main.py',
+gyp info spawn args 'binding.gyp',
+gyp info spawn args '-f',
+gyp info spawn args 'make',
+gyp info spawn args '-I',
+gyp info spawn args '/home/aaron/CockpitArchive2025/build/config.gypi',
+gyp info spawn args '-I',
+gyp info spawn args '/usr/lib/node_modules/node-gyp/addon.gypi',
+gyp info spawn args '-I',
+gyp info spawn args '/home/aaron/.cache/node-gyp/18.20.8/include/node/common.gypi',
+gyp info spawn args '-Dlibrary=shared_library',
+gyp info spawn args '-Dvisibility=default',
+gyp info spawn args '-Dnode_root_dir=/home/aaron/.cache/node-gyp/18.20.8',
+gyp info spawn args '-Dnode_gyp_dir=/usr/lib/node_modules/node-gyp',
+gyp info spawn args '-Dnode_lib_file=/home/aaron/.cache/node-gyp/18.20.8/<(target_arch)/node.lib',
+gyp info spawn args '-Dmodule_root_dir=/home/aaron/CockpitArchive2025',
+gyp info spawn args '-Dnode_engine=v8',
+gyp info spawn args '--depth=.',
+gyp info spawn args '--no-parallel',
+gyp info spawn args '--generator-output',
+gyp info spawn args 'build',
+gyp info spawn args '-Goutput_dir=.'
+gyp info spawn args ]
+gyp: binding.gyp not found (cwd: /home/aaron/CockpitArchive2025) while trying to load binding.gyp
+gyp ERR! configure error 
+gyp ERR! stack Error: `gyp` failed with exit code: 1
+gyp ERR! stack at ChildProcess.<anonymous> (/usr/lib/node_modules/node-gyp/lib/configure.js:317:18)
+gyp ERR! stack at ChildProcess.emit (node:events:517:28)
+gyp ERR! stack at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+gyp ERR! System Linux 6.8.0-90-generic
+gyp ERR! command "/usr/bin/node" "/usr/bin/node-gyp" "rebuild"
+gyp ERR! cwd /home/aaron/CockpitArchive2025
+gyp ERR! node -v v18.20.8
+gyp ERR! node-gyp -v v11.5.0
+gyp ERR! not ok 
+✖ Build failed
+BuildHammer cycle complete.
+----------------------------------------
+[2025-12-31 21:34:55] Reflex Fired: CrownOp — Executed
+[2025-12-31 21:34:55] Reflex Fired: CrownRegistry — Executed
+[2025-12-31 21:34:55] Reflex Fired: FleetManifest — Executed
+[2025-12-31 21:34:56] Crown Lever fired — Registry + Manifest complete.
+[2025-12-31 21:35:01] Reflex Fired: NukeProof — Executed
+----------------------------------------
+[NukeProof] Integrity sweep at 2025-12-31 21:35:01
+✖ CrownOps.sh MISSING
+✖ ScalerWave.sh MISSING
+✖ GitPulse.sh MISSING
+✖ GitSentinels.sh MISSING
+✖ SysWatch.sh MISSING
+✖ fireTriad.sh MISSING
+NukeProof sweep complete.
+----------------------------------------
+--------------------------------------------------
+[2025-12-31 21:35:11] CodexChain ignition — system-wide reflex event triggered by Operator Maverick.
+Reflex count   : 9
+Crown count    : 0
+Total scripts  : 9
+Ignition ROAR  : BOOOOOOOOOM
+CodexChain: Recovery log updated successfully.
+[2025-12-31 21:35:11] BOOOOOOOOOM — Cockpit Growth Event Logged.
+----------------------------------------
+[ScalerWave] Ignition at 2025-12-31 21:35:16
+Operator pulse confirmed.
+----------------------------------------
+[2026-01-02 04:28:48] Reflex Fired: BuildHammer — Execute
+----------------------------------------
+[BuildHammer] Forge cycle at 2026-01-02 04:28:48
+Running node-gyp rebuild...
+gyp info it worked if it ends with ok
+gyp info using node-gyp@11.5.0
+gyp info using node@18.20.8 | linux | x64
+gyp info find Python using Python version 3.10.12 found at "/usr/bin/python3"
+
+gyp info spawn /usr/bin/python3
+gyp info spawn args [
+gyp info spawn args '/usr/lib/node_modules/node-gyp/gyp/gyp_main.py',
+gyp info spawn args 'binding.gyp',
+gyp info spawn args '-f',
+gyp info spawn args 'make',
+gyp info spawn args '-I',
+gyp info spawn args '/home/aaron/CockpitArchive2025/build/config.gypi',
+gyp info spawn args '-I',
+gyp info spawn args '/usr/lib/node_modules/node-gyp/addon.gypi',
+gyp info spawn args '-I',
+gyp info spawn args '/home/aaron/.cache/node-gyp/18.20.8/include/node/common.gypi',
+gyp info spawn args '-Dlibrary=shared_library',
+gyp info spawn args '-Dvisibility=default',
+gyp info spawn args '-Dnode_root_dir=/home/aaron/.cache/node-gyp/18.20.8',
+gyp info spawn args '-Dnode_gyp_dir=/usr/lib/node_modules/node-gyp',
+gyp info spawn args '-Dnode_lib_file=/home/aaron/.cache/node-gyp/18.20.8/<(target_arch)/node.lib',
+gyp info spawn args '-Dmodule_root_dir=/home/aaron/CockpitArchive2025',
+gyp info spawn args '-Dnode_engine=v8',
+gyp info spawn args '--depth=.',
+gyp info spawn args '--no-parallel',
+gyp info spawn args '--generator-output',
+gyp info spawn args 'build',
+gyp info spawn args '-Goutput_dir=.'
+gyp info spawn args ]
+gyp: binding.gyp not found (cwd: /home/aaron/CockpitArchive2025) while trying to load binding.gyp
+gyp ERR! configure error 
+gyp ERR! stack Error: `gyp` failed with exit code: 1
+gyp ERR! stack at ChildProcess.<anonymous> (/usr/lib/node_modules/node-gyp/lib/configure.js:317:18)
+gyp ERR! stack at ChildProcess.emit (node:events:517:28)
+gyp ERR! stack at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+gyp ERR! System Linux 6.8.0-90-generic
+gyp ERR! command "/usr/bin/node" "/usr/bin/node-gyp" "rebuild"
+gyp ERR! cwd /home/aaron/CockpitArchive2025
+gyp ERR! node -v v18.20.8
+gyp ERR! node-gyp -v v11.5.0
+gyp ERR! not ok 
+✖ Build failed
+BuildHammer cycle complete.
+----------------------------------------
+[2026-01-04 03:48:58] Reflex Fired: NukeProof — Executed
+----------------------------------------
+[NukeProof] Integrity sweep at 2026-01-04 03:48:58
+✖ CrownOps.sh MISSING
+✖ ScalerWave.sh MISSING
+✖ GitPulse.sh MISSING
+✖ GitSentinels.sh MISSING
+✖ SysWatch.sh MISSING
+✖ fireTriad.sh MISSING
+NukeProof sweep complete.
+----------------------------------------
+[2026-01-04 03:49:01] Reflex Fired: CrownOp — Executed
+[2026-01-04 03:49:01] Reflex Fired: CrownRegistry — Executed
+[2026-01-04 03:49:01] Reflex Fired: FleetManifest — Executed
+[2026-01-04 03:49:01] Crown Lever fired — Registry + Manifest complete.
+--------------------------------------------------
+[2026-01-04 03:49:03] CodexChain ignition — system-wide reflex event triggered by Operator Maverick.
+Reflex count   : 9
+Crown count    : 0
+Total scripts  : 9
+Ignition ROAR  : BOOOOOOOOOM
+CodexChain: Recovery log updated successfully.
+[2026-01-04 03:49:03] BOOOOOOOOOM — Cockpit Growth Event Logged.
+----------------------------------------
+[ScalerWave] Ignition at 2026-01-04 03:49:05
+Operator pulse confirmed.
+----------------------------------------
+[2026-01-04 09:14:39] Reflex Fired: NukeProof — Executed
+----------------------------------------
+[NukeProof] Integrity sweep at 2026-01-04 09:14:39
+✖ CrownOps.sh MISSING
+✖ ScalerWave.sh MISSING
+✖ GitPulse.sh MISSING
+✖ GitSentinels.sh MISSING
+✖ SysWatch.sh MISSING
+✖ fireTriad.sh MISSING
+NukeProof sweep complete.
+----------------------------------------
+--------------------------------------------------
+[2026-01-04 23:29:34] CodexChain ignition — system-wide reflex event triggered by Operator Maverick.
+Reflex count   : 9
+Crown count    : 0
+Total scripts  : 9
+Ignition ROAR  : BOOOOOOOOOM
+CodexChain: Recovery log updated successfully.
+[2026-01-04 23:29:34] BOOOOOOOOOM — Cockpit Growth Event Logged.
+[2026-01-04 23:29:35] Reflex Fired: NukeProof — Executed
+----------------------------------------
+[NukeProof] Integrity sweep at 2026-01-04 23:29:35
+✖ CrownOps.sh MISSING
+✖ ScalerWave.sh MISSING
+✖ GitPulse.sh MISSING
+✖ GitSentinels.sh MISSING
+✖ SysWatch.sh MISSING
+✖ fireTriad.sh MISSING
+NukeProof sweep complete.
+----------------------------------------
+[2026-01-04 23:29:39] Reflex Fired: CrownOp — Executed
+[2026-01-04 23:29:39] Reflex Fired: CrownRegistry — Executed
+[2026-01-04 23:29:39] Reflex Fired: FleetManifest — Executed
+[2026-01-04 23:29:39] Crown Lever fired — Registry + Manifest complete.
+----------------------------------------
+[ScalerWave] Ignition at 2026-01-04 23:29:43
+Operator pulse confirmed.
+----------------------------------------
+[2026-01-04 23:56:13] Reflex Fired: NukeProof — Executed
+----------------------------------------
+[NukeProof] Integrity sweep at 2026-01-04 23:56:13
+✖ CrownOps.sh MISSING
+✖ ScalerWave.sh MISSING
+✖ GitPulse.sh MISSING
+✖ GitSentinels.sh MISSING
+✖ SysWatch.sh MISSING
+✖ fireTriad.sh MISSING
+NukeProof sweep complete.
+----------------------------------------
+--------------------------------------------------
+[2026-01-04 23:56:16] CodexChain ignition — system-wide reflex event triggered by Operator Maverick.
+Reflex count   : 9
+Crown count    : 0
+Total scripts  : 9
+Ignition ROAR  : BOOOOOOOOOM
+CodexChain: Recovery log updated successfully.
+[2026-01-04 23:56:16] BOOOOOOOOOM — Cockpit Growth Event Logged.
+----------------------------------------
+[ScalerWave] Ignition at 2026-01-04 23:56:19
+Operator pulse confirmed.
+----------------------------------------
+[2026-01-06 15:36:38] Reflex Fired: CrownOp — Executed
+[2026-01-06 15:36:38] Reflex Fired: CrownRegistry — Executed
+[2026-01-06 15:36:38] Reflex Fired: FleetManifest — Executed
+[2026-01-06 15:36:38] Crown Lever fired — Registry + Manifest complete.
+[2026-01-06 15:36:40] Reflex Fired: NukeProof — Executed
+----------------------------------------
+[NukeProof] Integrity sweep at 2026-01-06 15:36:40
+✖ CrownOps.sh MISSING
+✖ ScalerWave.sh MISSING
+✖ GitPulse.sh MISSING
+✖ GitSentinels.sh MISSING
+✖ SysWatch.sh MISSING
+✖ fireTriad.sh MISSING
+NukeProof sweep complete.
+----------------------------------------
+--------------------------------------------------
+[2026-01-06 15:36:43] CodexChain ignition — system-wide reflex event triggered by Operator Maverick.
+Reflex count   : 9
+Crown count    : 0
+Total scripts  : 9
+Ignition ROAR  : BOOOOOOOOOM
+CodexChain: Recovery log updated successfully.
+[2026-01-06 15:36:43] BOOOOOOOOOM — Cockpit Growth Event Logged.
+----------------------------------------
+[ScalerWave] Ignition at 2026-01-06 15:36:45
+Operator pulse confirmed.
+----------------------------------------
+[2026-01-07 01:35:47] Reflex Fired: CrownOp — Executed
+[2026-01-07 01:35:47] Reflex Fired: CrownRegistry — Executed
+[2026-01-07 01:35:47] Reflex Fired: FleetManifest — Executed
+[2026-01-07 01:35:47] Crown Lever fired — Registry + Manifest complete.
+[2026-01-07 01:35:48] Reflex Fired: NukeProof — Executed
+----------------------------------------
+[NukeProof] Integrity sweep at 2026-01-07 01:35:48
+✖ CrownOps.sh MISSING
+✖ ScalerWave.sh MISSING
+✖ GitPulse.sh MISSING
+✖ GitSentinels.sh MISSING
+✖ SysWatch.sh MISSING
+✖ fireTriad.sh MISSING
+NukeProof sweep complete.
+----------------------------------------
+--------------------------------------------------
+[2026-01-07 01:35:49] CodexChain ignition — system-wide reflex event triggered by Operator Maverick.
+Reflex count   : 9
+Crown count    : 0
+Total scripts  : 9
+Ignition ROAR  : BOOOOOOOOOM
+CodexChain: Recovery log updated successfully.
+[2026-01-07 01:35:49] BOOOOOOOOOM — Cockpit Growth Event Logged.
+----------------------------------------
+[ScalerWave] Ignition at 2026-01-07 01:35:50
+Operator pulse confirmed.
+----------------------------------------
+[2026-01-07 03:48:46] Reflex Fired: BuildHammer — Execute
+----------------------------------------
+[BuildHammer] Forge cycle at 2026-01-07 03:48:46
+Running node-gyp rebuild...
+[2026-01-07 03:48:47] Reflex Fired: BuildHammer — Execute
+----------------------------------------
+[BuildHammer] Forge cycle at 2026-01-07 03:48:47
+Running node-gyp rebuild...
+gyp info it worked if it ends with ok
+gyp info using node-gyp@11.5.0
+gyp info using node@18.20.8 | linux | x64
+gyp info it worked if it ends with ok
+gyp info using node-gyp@11.5.0
+gyp info using node@18.20.8 | linux | x64
+gyp info find Python using Python version 3.10.12 found at "/usr/bin/python3"
+gyp info find Python using Python version 3.10.12 found at "/usr/bin/python3"
+
+
+gyp info spawn /usr/bin/python3
+gyp info spawn /usr/bin/python3
+gyp info spawn args [
+gyp info spawn args '/usr/lib/node_modules/node-gyp/gyp/gyp_main.py',
+gyp info spawn args 'binding.gyp',
+gyp info spawn args '-f',
+gyp info spawn args 'make',
+gyp info spawn args '-I',
+gyp info spawn args '/home/aaron/CockpitArchive2025/build/config.gypi',
+gyp info spawn args '-I',
+gyp info spawn args '/usr/lib/node_modules/node-gyp/addon.gypi',
+gyp info spawn args '-I',
+gyp info spawn args '/home/aaron/.cache/node-gyp/18.20.8/include/node/common.gypi',
+gyp info spawn args '-Dlibrary=shared_library',
+gyp info spawn args '-Dvisibility=default',
+gyp info spawn args '-Dnode_root_dir=/home/aaron/.cache/node-gyp/18.20.8',
+gyp info spawn args '-Dnode_gyp_dir=/usr/lib/node_modules/node-gyp',
+gyp info spawn args '-Dnode_lib_file=/home/aaron/.cache/node-gyp/18.20.8/<(target_arch)/node.lib',
+gyp info spawn args '-Dmodule_root_dir=/home/aaron/CockpitArchive2025',
+gyp info spawn args '-Dnode_engine=v8',
+gyp info spawn args '--depth=.',
+gyp info spawn args '--no-parallel',
+gyp info spawn args '--generator-output',
+gyp info spawn args 'build',
+gyp info spawn args '-Goutput_dir=.'
+gyp info spawn args ]
+gyp info spawn args [
+gyp info spawn args '/usr/lib/node_modules/node-gyp/gyp/gyp_main.py',
+gyp info spawn args 'binding.gyp',
+gyp info spawn args '-f',
+gyp info spawn args 'make',
+gyp info spawn args '-I',
+gyp info spawn args '/home/aaron/CockpitArchive2025/build/config.gypi',
+gyp info spawn args '-I',
+gyp info spawn args '/usr/lib/node_modules/node-gyp/addon.gypi',
+gyp info spawn args '-I',
+gyp info spawn args '/home/aaron/.cache/node-gyp/18.20.8/include/node/common.gypi',
+gyp info spawn args '-Dlibrary=shared_library',
+gyp info spawn args '-Dvisibility=default',
+gyp info spawn args '-Dnode_root_dir=/home/aaron/.cache/node-gyp/18.20.8',
+gyp info spawn args '-Dnode_gyp_dir=/usr/lib/node_modules/node-gyp',
+gyp info spawn args '-Dnode_lib_file=/home/aaron/.cache/node-gyp/18.20.8/<(target_arch)/node.lib',
+gyp info spawn args '-Dmodule_root_dir=/home/aaron/CockpitArchive2025',
+gyp info spawn args '-Dnode_engine=v8',
+gyp info spawn args '--depth=.',
+gyp info spawn args '--no-parallel',
+gyp info spawn args '--generator-output',
+gyp info spawn args 'build',
+gyp info spawn args '-Goutput_dir=.'
+gyp info spawn args ]
+gyp: binding.gyp not found (cwd: /home/aaron/CockpitArchive2025) while trying to load binding.gyp
+gyp ERR! configure error 
+gyp ERR! stack Error: `gyp` failed with exit code: 1
+gyp ERR! stack at ChildProcess.<anonymous> (/usr/lib/node_modules/node-gyp/lib/configure.js:317:18)
+gyp ERR! stack at ChildProcess.emit (node:events:517:28)
+gyp ERR! stack at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+gyp ERR! System Linux 6.8.0-90-generic
+gyp ERR! command "/usr/bin/node" "/usr/bin/node-gyp" "rebuild"
+gyp ERR! cwd /home/aaron/CockpitArchive2025
+gyp ERR! node -v v18.20.8
+gyp ERR! node-gyp -v v11.5.0
+gyp ERR! not ok 
+✖ Build failed
+gyp: binding.gyp not found (cwd: /home/aaron/CockpitArchive2025) while trying to load binding.gyp
+BuildHammer cycle complete.
+----------------------------------------
+gyp ERR! configure error 
+gyp ERR! stack Error: `gyp` failed with exit code: 1
+gyp ERR! stack at ChildProcess.<anonymous> (/usr/lib/node_modules/node-gyp/lib/configure.js:317:18)
+gyp ERR! stack at ChildProcess.emit (node:events:517:28)
+gyp ERR! stack at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+gyp ERR! System Linux 6.8.0-90-generic
+gyp ERR! command "/usr/bin/node" "/usr/bin/node-gyp" "rebuild"
+gyp ERR! cwd /home/aaron/CockpitArchive2025
+gyp ERR! node -v v18.20.8
+gyp ERR! node-gyp -v v11.5.0
+gyp ERR! not ok 
+✖ Build failed
+BuildHammer cycle complete.
+----------------------------------------
+[2026-01-08 07:02:22] Reflex Fired: NukeProof — Executed
+----------------------------------------
+[NukeProof] Integrity sweep at 2026-01-08 07:02:22
+✖ CrownOps.sh MISSING
+✖ ScalerWave.sh MISSING
+✖ GitPulse.sh MISSING
+✖ GitSentinels.sh MISSING
+✖ SysWatch.sh MISSING
+✖ fireTriad.sh MISSING
+NukeProof sweep complete.
+----------------------------------------
+[2026-01-08 07:02:29] Reflex Fired: CrownOp — Executed
+[2026-01-08 07:02:29] Reflex Fired: CrownRegistry — Executed
+[2026-01-08 07:02:29] Reflex Fired: FleetManifest — Executed
+[2026-01-08 07:02:30] Crown Lever fired — Registry + Manifest complete.
+--------------------------------------------------
+[2026-01-08 07:02:31] CodexChain ignition — system-wide reflex event triggered by Operator Maverick.
+Reflex count   : 9
+Crown count    : 0
+Total scripts  : 9
+Ignition ROAR  : BOOOOOOOOOM
+CodexChain: Recovery log updated successfully.
+[2026-01-08 07:02:31] BOOOOOOOOOM — Cockpit Growth Event Logged.
+----------------------------------------
+[ScalerWave] Ignition at 2026-01-08 07:02:33
+Operator pulse confirmed.
+----------------------------------------
+----------------------------------------
+[ScalerWave] Ignition at 2026-01-08 08:18:45
+Operator pulse confirmed.
+----------------------------------------
+--------------------------------------------------
+[2026-01-08 08:18:46] CodexChain ignition — system-wide reflex event triggered by Operator Maverick.
+Reflex count   : 9
+Crown count    : 0
+Total scripts  : 9
+Ignition ROAR  : BOOOOOOOOOM
+CodexChain: Recovery log updated successfully.
+[2026-01-08 08:18:46] BOOOOOOOOOM — Cockpit Growth Event Logged.
+[2026-01-08 08:18:48] Reflex Fired: NukeProof — Executed
+----------------------------------------
+[NukeProof] Integrity sweep at 2026-01-08 08:18:48
+✖ CrownOps.sh MISSING
+✖ ScalerWave.sh MISSING
+✖ GitPulse.sh MISSING
+✖ GitSentinels.sh MISSING
+✖ SysWatch.sh MISSING
+✖ fireTriad.sh MISSING
+NukeProof sweep complete.
+----------------------------------------
+[2026-01-08 08:18:50] Reflex Fired: CrownOp — Executed
+[2026-01-08 08:18:50] Reflex Fired: CrownRegistry — Executed
+[2026-01-08 08:18:50] Reflex Fired: FleetManifest — Executed
+[2026-01-08 08:18:50] Crown Lever fired — Registry + Manifest complete.
+[2026-01-08 08:22:49] Reflex Fired: CrownOp — Executed
+[2026-01-08 08:22:50] Reflex Fired: CrownRegistry — Executed
+[2026-01-08 08:22:50] Reflex Fired: FleetManifest — Executed
+[2026-01-08 08:22:50] Crown Lever fired — Registry + Manifest complete.
+[2026-01-08 08:22:51] Reflex Fired: NukeProof — Executed
+----------------------------------------
+[NukeProof] Integrity sweep at 2026-01-08 08:22:51
+✖ CrownOps.sh MISSING
+✖ ScalerWave.sh MISSING
+✖ GitPulse.sh MISSING
+✖ GitSentinels.sh MISSING
+✖ SysWatch.sh MISSING
+✖ fireTriad.sh MISSING
+NukeProof sweep complete.
+----------------------------------------
+[2026-01-08 18:14:33] Reflex Fired: NukeProof — Executed
+----------------------------------------
+[NukeProof] Integrity sweep at 2026-01-08 18:14:33
+✖ CrownOps.sh MISSING
+✖ ScalerWave.sh MISSING
+✖ GitPulse.sh MISSING
+✖ GitSentinels.sh MISSING
+✖ SysWatch.sh MISSING
+✖ fireTriad.sh MISSING
+NukeProof sweep complete.
+----------------------------------------
+[2026-01-08 18:14:34] Reflex Fired: CrownOp — Executed
+[2026-01-08 18:14:34] Reflex Fired: CrownRegistry — Executed
+[2026-01-08 18:14:34] Reflex Fired: FleetManifest — Executed
+[2026-01-08 18:14:35] Crown Lever fired — Registry + Manifest complete.
+--------------------------------------------------
+[2026-01-08 18:14:36] CodexChain ignition — system-wide reflex event triggered by Operator Maverick.
+Reflex count   : 9
+Crown count    : 0
+Total scripts  : 9
+Ignition ROAR  : BOOOOOOOOOM
+CodexChain: Recovery log updated successfully.
+[2026-01-08 18:14:36] BOOOOOOOOOM — Cockpit Growth Event Logged.
+----------------------------------------
+[ScalerWave] Ignition at 2026-01-08 18:14:38
+Operator pulse confirmed.
+----------------------------------------
+[2026-01-08 18:16:02] Reflex Fired: NukeProof — Executed
+----------------------------------------
+[NukeProof] Integrity sweep at 2026-01-08 18:16:02
+✖ CrownOps.sh MISSING
+✖ ScalerWave.sh MISSING
+✖ GitPulse.sh MISSING
+✖ GitSentinels.sh MISSING
+✖ SysWatch.sh MISSING
+✖ fireTriad.sh MISSING
+NukeProof sweep complete.
+----------------------------------------
+[2026-01-08 18:16:03] Reflex Fired: CrownOp — Executed
+[2026-01-08 18:16:03] Reflex Fired: CrownRegistry — Executed
+[2026-01-08 18:16:03] Reflex Fired: FleetManifest — Executed
+[2026-01-08 18:16:03] Crown Lever fired — Registry + Manifest complete.
+--------------------------------------------------
+[2026-01-09 08:23:38] CodexChain ignition — system-wide reflex event triggered by Operator Maverick.
+Reflex count   : 0
+Crown count    : 0
+Total scripts  : 1
+Ignition ROAR  : BOM
+CodexChain: Recovery log updated successfully.
+[2026-01-09 08:23:38] BOM — Cockpit Growth Event Logged.
+----------------------------------------
+[ScalerWave] Ignition at 2026-01-09 08:23:42
+Operator pulse confirmed.
+----------------------------------------
+--------------------------------------------------
+[2026-01-09 08:23:47] CodexChain ignition — system-wide reflex event triggered by Operator Maverick.
+Reflex count   : 0
+Crown count    : 0
+Total scripts  : 1
+Ignition ROAR  : BOM
+CodexChain: Recovery log updated successfully.
+[2026-01-09 08:23:47] BOM — Cockpit Growth Event Logged.
+--------------------------------------------------
+[2026-01-09 11:26:19] CodexChain ignition — system-wide reflex event triggered by Operator Maverick.
+Reflex count   : 0
+Crown count    : 0
+Total scripts  : 1
+Ignition ROAR  : BOM
+CodexChain: Recovery log updated successfully.
+[2026-01-09 11:26:19] BOM — Cockpit Growth Event Logged.
+----------------------------------------
+[ScalerWave] Ignition at 2026-01-09 11:26:22
+Operator pulse confirmed.
+----------------------------------------
+--------------------------------------------------
+[2026-01-09 11:30:14] CodexChain ignition — system-wide reflex event triggered by Operator Maverick.
+Reflex count   : 0
+Crown count    : 0
+Total scripts  : 1
+Ignition ROAR  : BOM
+CodexChain: Recovery log updated successfully.
+[2026-01-09 11:30:14] BOM — Cockpit Growth Event Logged.
+--------------------------------------------------
+[2026-01-10 04:07:05] CodexChain ignition — system-wide reflex event triggered by Operator Maverick.
+Reflex count   : 0
+Crown count    : 0
+Total scripts  : 1
+Ignition ROAR  : BOM
+CodexChain: Recovery log updated successfully.
+[2026-01-10 04:07:05] BOM — Cockpit Growth Event Logged.
+----------------------------------------
+[ScalerWave] Ignition at 2026-01-10 04:07:08
+Operator pulse confirmed.
+----------------------------------------
+----------------------------------------
+[ScalerWave] Ignition at 2026-01-10 10:49:14
+Operator pulse confirmed.
+----------------------------------------
+----------------------------------------
+[ScalerWave] Ignition at 2026-01-10 10:49:17
+Operator pulse confirmed.
+----------------------------------------
+----------------------------------------
+[ScalerWave] Ignition at 2026-01-10 10:49:17
+Operator pulse confirmed.
+----------------------------------------
+--------------------------------------------------
+[2026-01-13 08:16:05] CodexChain ignition — system-wide reflex event triggered by Operator Maverick.
+Reflex count   : 0
+Crown count    : 0
+Total scripts  : 1
+Ignition ROAR  : BOM
+CodexChain: Recovery log updated successfully.
+[2026-01-13 08:16:05] BOM — Cockpit Growth Event Logged.
+----------------------------------------
+[ScalerWave] Ignition at 2026-01-13 08:16:09
+Operator pulse confirmed.
+----------------------------------------
+--------------------------------------------------
+[2026-01-13 22:28:14] CodexChain ignition — system-wide reflex event triggered by Operator Maverick.
+Reflex count   : 0
+Crown count    : 0
+Total scripts  : 1
+Ignition ROAR  : BOM
+CodexChain: Recovery log updated successfully.
+[2026-01-13 22:28:14] BOM — Cockpit Growth Event Logged.
+----------------------------------------
+[ScalerWave] Ignition at 2026-01-13 22:28:17
+Operator pulse confirmed.
+----------------------------------------
+[2026-01-14 19:21:14] Crown Lever fired — Registry + Manifest complete.
+[2026-01-14 19:23:35] Crown Lever fired — Registry + Manifest complete.
+----------------------------------------
+[NukeProof] Integrity sweep at 2026-01-14 19:27:10
+✖ CrownOps.sh MISSING
+✖ ScalerWave.sh MISSING
+✖ GitPulse.sh MISSING
+✖ GitSentinels.sh MISSING
+✖ SysWatch.sh MISSING
+✖ fireTriad.sh MISSING
+NukeProof sweep complete.
+----------------------------------------
+----------------------------------------
+[NukeProof] Integrity sweep at 2026-01-14 20:30:54
+✖ CrownOps.sh MISSING
+✖ ScalerWave.sh MISSING
+✖ GitPulse.sh MISSING
+✖ GitSentinels.sh MISSING
+✖ SysWatch.sh MISSING
+✖ fireTriad.sh MISSING
+NukeProof sweep complete.
+----------------------------------------
+----------------------------------------
+[NukeProof] Integrity sweep at 2026-01-15 00:59:04
+✖ CrownOps.sh MISSING
+✖ ScalerWave.sh MISSING
+✖ GitPulse.sh MISSING
+✖ GitSentinels.sh MISSING
+✖ SysWatch.sh MISSING
+✖ fireTriad.sh MISSING
+NukeProof sweep complete.
+----------------------------------------
+--------------------------------------------------
+[2026-01-15 00:59:10] CodexChain ignition — system-wide reflex event triggered by Operator Maverick.
+Reflex count   : 0
+Crown count    : 0
+Total scripts  : 1
+Ignition ROAR  : BOM
+CodexChain: Recovery log updated successfully.
+[2026-01-15 00:59:10] BOM — Cockpit Growth Event Logged.
+----------------------------------------
+[NukeProof] Integrity sweep at 2026-01-15 01:00:27
+✖ CrownOps.sh MISSING
+✖ ScalerWave.sh MISSING
+✖ GitPulse.sh MISSING
+✖ GitSentinels.sh MISSING
+✖ SysWatch.sh MISSING
+✖ fireTriad.sh MISSING
+NukeProof sweep complete.
+----------------------------------------
+[2026-01-15 01:35:25] Reflex Fired: CradleTest — Ignition
+[2026-01-15 01:43:54] Reflex Fired: CycleTest — Ping
+[2026-01-15 20:05:35] Reflex Fired: NukeProof — Executed
+----------------------------------------
+[NukeProof] Integrity sweep at 2026-01-15 20:05:35
+✖ CrownOps.sh MISSING
+✖ ScalerWave.sh MISSING
+✖ GitPulse.sh MISSING
+✖ GitSentinels.sh MISSING
+✖ SysWatch.sh MISSING
+✖ fireTriad.sh MISSING
+NukeProof sweep complete.
+----------------------------------------
+[2026-01-15 20:05:36] Reflex Fired: CrownOp — Executed
+[2026-01-15 20:05:36] Crown Lever fired — Registry + Manifest complete.
+--------------------------------------------------
+[2026-01-15 20:05:39] CodexChain ignition — system-wide reflex event triggered by Operator Maverick.
+Reflex count   : 0
+Crown count    : 0
+Total scripts  : 1
+Ignition ROAR  : BOM
+CodexChain: Recovery log updated successfully.
+[2026-01-15 20:05:39] BOM — Cockpit Growth Event Logged.
+[2026-01-16 16:13:12] Reflex Fired: CrownOp — Executed
+[2026-01-16 16:13:12] Crown Lever fired — Registry + Manifest complete.
+[2026-01-16 16:13:13] Reflex Fired: NukeProof — Executed
+----------------------------------------
+[NukeProof] Integrity sweep at 2026-01-16 16:13:13
+✖ CrownOps.sh MISSING
+✖ ScalerWave.sh MISSING
+✖ GitPulse.sh MISSING
+✖ GitSentinels.sh MISSING
+✖ SysWatch.sh MISSING
+✖ fireTriad.sh MISSING
+NukeProof sweep complete.
+----------------------------------------
+--------------------------------------------------
+[2026-01-16 16:13:15] CodexChain ignition — system-wide reflex event triggered by Operator Maverick.
+Reflex count   : 0
+Crown count    : 0
+Total scripts  : 1
+Ignition ROAR  : BOM
+CodexChain: Recovery log updated successfully.
+[2026-01-16 16:13:15] BOM — Cockpit Growth Event Logged.
+[2026-01-16 21:29:05] Reflex Fired: NukeProof — Executed
+----------------------------------------
+[NukeProof] Integrity sweep at 2026-01-16 21:29:05
+✖ CrownOps.sh MISSING
+✖ ScalerWave.sh MISSING
+✖ GitPulse.sh MISSING
+✖ GitSentinels.sh MISSING
+✖ SysWatch.sh MISSING
+✖ fireTriad.sh MISSING
+NukeProof sweep complete.
+----------------------------------------
+[2026-01-16 21:29:06] Reflex Fired: CrownOp — Executed
+[2026-01-16 21:29:06] Crown Lever fired — Registry + Manifest complete.
+--------------------------------------------------
+[2026-01-16 21:29:09] CodexChain ignition — system-wide reflex event triggered by Operator Maverick.
+Reflex count   : 0
+Crown count    : 0
+Total scripts  : 1
+Ignition ROAR  : BOM
+CodexChain: Recovery log updated successfully.
+[2026-01-16 21:29:09] BOM — Cockpit Growth Event Logged.
+[2026-01-17 02:32:16] Reflex Fired: CrownOp — Executed
+[2026-01-17 02:32:16] Crown Lever fired — Registry + Manifest complete.
+[2026-01-17 02:32:17] Reflex Fired: NukeProof — Executed
+----------------------------------------
+[NukeProof] Integrity sweep at 2026-01-17 02:32:17
+✖ CrownOps.sh MISSING
+✖ ScalerWave.sh MISSING
+✖ GitPulse.sh MISSING
+✖ GitSentinels.sh MISSING
+✖ SysWatch.sh MISSING
+✖ fireTriad.sh MISSING
+NukeProof sweep complete.
+----------------------------------------
+--------------------------------------------------
+[2026-01-17 02:32:19] CodexChain ignition — system-wide reflex event triggered by Operator Maverick.
+Reflex count   : 0
+Crown count    : 0
+Total scripts  : 1
+Ignition ROAR  : BOM
+CodexChain: Recovery log updated successfully.
+[2026-01-17 02:32:19] BOM — Cockpit Growth Event Logged.
+[2026-01-18 09:59:31] Reflex Fired: CrownOp — Executed
+[2026-01-18 09:59:31] Crown Lever fired — Registry + Manifest complete.
+[2026-01-18 09:59:34] Reflex Fired: NukeProof — Executed
+----------------------------------------
+[NukeProof] Integrity sweep at 2026-01-18 09:59:34
+✖ CrownOps.sh MISSING
+✖ ScalerWave.sh MISSING
+✖ GitPulse.sh MISSING
+✖ GitSentinels.sh MISSING
+✖ SysWatch.sh MISSING
+✖ fireTriad.sh MISSING
+NukeProof sweep complete.
+----------------------------------------
+--------------------------------------------------
+[2026-01-18 09:59:36] CodexChain ignition — system-wide reflex event triggered by Operator Maverick.
+Reflex count   : 0
+Crown count    : 0
+Total scripts  : 1
+Ignition ROAR  : BOM
+CodexChain: Recovery log updated successfully.
+[2026-01-18 09:59:36] BOM — Cockpit Growth Event Logged.
+[2026-01-18 22:55:08] Reflex Fired: NukeProof — Executed
+----------------------------------------
+[NukeProof] Integrity sweep at 2026-01-18 22:55:08
+✖ CrownOps.sh MISSING
+✖ ScalerWave.sh MISSING
+✖ GitPulse.sh MISSING
+✖ GitSentinels.sh MISSING
+✖ SysWatch.sh MISSING
+✖ fireTriad.sh MISSING
+NukeProof sweep complete.
+----------------------------------------
+[2026-01-18 22:55:10] Reflex Fired: CrownOp — Executed
+[2026-01-18 22:55:10] Crown Lever fired — Registry + Manifest complete.
+--------------------------------------------------
+[2026-01-18 22:55:13] CodexChain ignition — system-wide reflex event triggered by Operator Maverick.
+Reflex count   : 0
+Crown count    : 0
+Total scripts  : 1
+Ignition ROAR  : BOM
+CodexChain: Recovery log updated successfully.
+[2026-01-18 22:55:13] BOM — Cockpit Growth Event Logged.
+[2026-01-20 09:18:04] Reflex Fired: CrownOp — Executed
+[2026-01-20 09:18:04] Crown Lever fired — Registry + Manifest complete.
+[2026-01-20 09:18:08] Reflex Fired: NukeProof — Executed
+----------------------------------------
+[NukeProof] Integrity sweep at 2026-01-20 09:18:08
+✖ CrownOps.sh MISSING
+✖ ScalerWave.sh MISSING
+✖ GitPulse.sh MISSING
+✖ GitSentinels.sh MISSING
+✖ SysWatch.sh MISSING
+✖ fireTriad.sh MISSING
+NukeProof sweep complete.
+----------------------------------------
+--------------------------------------------------
+[2026-01-20 09:18:09] CodexChain ignition — system-wide reflex event triggered by Operator Maverick.
+Reflex count   : 0
+Crown count    : 0
+Total scripts  : 1
+Ignition ROAR  : BOM
+CodexChain: Recovery log updated successfully.
+[2026-01-20 09:18:09] BOM — Cockpit Growth Event Logged.
+[2026-01-21 02:27:14] Reflex Fired: NukeProof — Executed
+----------------------------------------
+[NukeProof] Integrity sweep at 2026-01-21 02:27:14
+✖ CrownOps.sh MISSING
+✖ ScalerWave.sh MISSING
+✖ GitPulse.sh MISSING
+✖ GitSentinels.sh MISSING
+✖ SysWatch.sh MISSING
+✖ fireTriad.sh MISSING
+NukeProof sweep complete.
+----------------------------------------
+[2026-01-21 02:27:17] Reflex Fired: CrownOp — Executed
+[2026-01-21 02:27:17] Crown Lever fired — Registry + Manifest complete.
+--------------------------------------------------
+[2026-01-21 02:27:19] CodexChain ignition — system-wide reflex event triggered by Operator Maverick.
+Reflex count   : 0
+Crown count    : 0
+Total scripts  : 1
+Ignition ROAR  : BOM
+CodexChain: Recovery log updated successfully.
+[2026-01-21 02:27:19] BOM — Cockpit Growth Event Logged.
+[2026-01-21 02:41:13] Reflex Fired: NukeProof — Executed
+----------------------------------------
+[NukeProof] Integrity sweep at 2026-01-21 02:41:13
+✖ CrownOps.sh MISSING
+✖ ScalerWave.sh MISSING
+✖ GitPulse.sh MISSING
+✖ GitSentinels.sh MISSING
+✖ SysWatch.sh MISSING
+✖ fireTriad.sh MISSING
+NukeProof sweep complete.
+----------------------------------------
+[2026-01-21 02:41:14] Reflex Fired: NukeProof — Executed
+----------------------------------------
+[NukeProof] Integrity sweep at 2026-01-21 02:41:14
+✖ CrownOps.sh MISSING
+✖ ScalerWave.sh MISSING
+✖ GitPulse.sh MISSING
+✖ GitSentinels.sh MISSING
+✖ SysWatch.sh MISSING
+✖ fireTriad.sh MISSING
+NukeProof sweep complete.
+----------------------------------------
+--------------------------------------------------
+[2026-01-22 21:45:31] CodexChain ignition — system-wide reflex event triggered by Operator Maverick.
+Reflex count   : 0
+Crown count    : 0
+Total scripts  : 1
+Ignition ROAR  : BOM
+CodexChain: Recovery log updated successfully.
+[2026-01-22 21:45:31] BOM — Cockpit Growth Event Logged.
+[2026-01-22 21:45:32] Reflex Fired: NukeProof — Executed
+----------------------------------------
+[NukeProof] Integrity sweep at 2026-01-22 21:45:32
+✖ CrownOps.sh MISSING
+✖ ScalerWave.sh MISSING
+✖ GitPulse.sh MISSING
+✖ GitSentinels.sh MISSING
+✖ SysWatch.sh MISSING
+✖ fireTriad.sh MISSING
+NukeProof sweep complete.
+----------------------------------------
+[2026-01-22 21:45:34] Reflex Fired: CrownOp — Executed
+[2026-01-22 21:45:34] Crown Lever fired — Registry + Manifest complete.
+--------------------------------------------------
+[2026-01-23 02:07:38] CodexChain ignition — system-wide reflex event triggered by Operator Maverick.
+Reflex count   : 0
+Crown count    : 0
+Total scripts  : 1
+Ignition ROAR  : BOM
+CodexChain: Recovery log updated successfully.
+[2026-01-23 02:07:38] BOM — Cockpit Growth Event Logged.
+--------------------------------------------------
+[2026-01-23 02:51:59] CodexChain ignition — system-wide reflex event triggered by Operator Maverick.
+Reflex count   : 0
+Crown count    : 0
+Total scripts  : 1
+Ignition ROAR  : BOM
+CodexChain: Recovery log updated successfully.
+[2026-01-23 02:51:59] BOM — Cockpit Growth Event Logged.
+[2026-01-23 02:52:04] Reflex Fired: NukeProof — Executed
+----------------------------------------
+[NukeProof] Integrity sweep at 2026-01-23 02:52:04
+✖ CrownOps.sh MISSING
+✖ ScalerWave.sh MISSING
+✖ GitPulse.sh MISSING
+✖ GitSentinels.sh MISSING
+✖ SysWatch.sh MISSING
+✖ fireTriad.sh MISSING
+NukeProof sweep complete.
+----------------------------------------
+[2026-01-23 02:52:21] Reflex Fired: NukeProof — Executed
+----------------------------------------
+[NukeProof] Integrity sweep at 2026-01-23 02:52:21
+✖ CrownOps.sh MISSING
+✖ ScalerWave.sh MISSING
+✖ GitPulse.sh MISSING
+✖ GitSentinels.sh MISSING
+✖ SysWatch.sh MISSING
+✖ fireTriad.sh MISSING
+NukeProof sweep complete.
+----------------------------------------
+[2026-01-23 02:52:21] Reflex Fired: CrownOp — Executed
+[2026-01-23 02:52:21] Crown Lever fired — Registry + Manifest complete.
+[2026-01-23 09:46:40] Reflex Fired: NukeProof — Executed
+----------------------------------------
+[NukeProof] Integrity sweep at 2026-01-23 09:46:40
+✖ CrownOps.sh MISSING
+✖ ScalerWave.sh MISSING
+✖ GitPulse.sh MISSING
+✖ GitSentinels.sh MISSING
+✖ SysWatch.sh MISSING
+✖ fireTriad.sh MISSING
+NukeProof sweep complete.
+----------------------------------------
+[2026-01-23 15:25:12] Reflex Fired: CrownOp — Executed
+[2026-01-23 15:25:12] Crown Lever fired — Registry + Manifest complete.
+[2026-01-23 15:25:16] Reflex Fired: NukeProof — Executed
+----------------------------------------
+[NukeProof] Integrity sweep at 2026-01-23 15:25:16
+✖ CrownOps.sh MISSING
+✖ ScalerWave.sh MISSING
+✖ GitPulse.sh MISSING
+✖ GitSentinels.sh MISSING
+✖ SysWatch.sh MISSING
+✖ fireTriad.sh MISSING
+NukeProof sweep complete.
+----------------------------------------
+--------------------------------------------------
+[2026-01-23 15:25:26] CodexChain ignition — system-wide reflex event triggered by Operator Maverick.
+Reflex count   : 0
+Crown count    : 0
+Total scripts  : 1
+Ignition ROAR  : BOM
+CodexChain: Recovery log updated successfully.
+[2026-01-23 15:25:26] BOM — Cockpit Growth Event Logged.
+[2026-01-25 23:39:35] Reflex Fired: NukeProof — Executed
+----------------------------------------
+[NukeProof] Integrity sweep at 2026-01-25 23:39:35
+✖ CrownOps.sh MISSING
+✖ ScalerWave.sh MISSING
+✖ GitPulse.sh MISSING
+✖ GitSentinels.sh MISSING
+✖ SysWatch.sh MISSING
+✖ fireTriad.sh MISSING
+NukeProof sweep complete.
+----------------------------------------
+--------------------------------------------------
+[2026-01-25 23:40:39] CodexChain ignition — system-wide reflex event triggered by Operator Maverick.
+Reflex count   : 0
+Crown count    : 0
+Total scripts  : 1
+Ignition ROAR  : BOM
+CodexChain: Recovery log updated successfully.
+[2026-01-25 23:40:39] BOM — Cockpit Growth Event Logged.
+[2026-01-26 20:50:09] Reflex Fired: NukeProof — Executed
+----------------------------------------
+[NukeProof] Integrity sweep at 2026-01-26 20:50:09
+✖ CrownOps.sh MISSING
+✖ ScalerWave.sh MISSING
+✖ GitPulse.sh MISSING
+✖ GitSentinels.sh MISSING
+✖ SysWatch.sh MISSING
+✖ fireTriad.sh MISSING
+NukeProof sweep complete.
+----------------------------------------
+[2026-01-26 20:50:09] Reflex Fired: NukeProof — Executed
+----------------------------------------
+[NukeProof] Integrity sweep at 2026-01-26 20:50:09
+✖ CrownOps.sh MISSING
+✖ ScalerWave.sh MISSING
+✖ GitPulse.sh MISSING
+✖ GitSentinels.sh MISSING
+✖ SysWatch.sh MISSING
+✖ fireTriad.sh MISSING
+NukeProof sweep complete.
+----------------------------------------
+[2026-01-26 20:50:10] Reflex Fired: CrownOp — Executed
+[2026-01-26 20:50:10] Crown Lever fired — Registry + Manifest complete.
+--------------------------------------------------
+[2026-01-26 20:50:13] CodexChain ignition — system-wide reflex event triggered by Operator Maverick.
+Reflex count   : 0
+Crown count    : 0
+Total scripts  : 1
+Ignition ROAR  : BOM
+CodexChain: Recovery log updated successfully.
+[2026-01-26 20:50:13] BOM — Cockpit Growth Event Logged.
+[2026-01-28 09:04:30] Reflex Fired: CrownOp — Executed
+[2026-01-28 09:04:30] Crown Lever fired — Registry + Manifest complete.
+[2026-01-28 09:04:31] Reflex Fired: NukeProof — Executed
+----------------------------------------
+[NukeProof] Integrity sweep at 2026-01-28 09:04:31
+✖ CrownOps.sh MISSING
+✖ ScalerWave.sh MISSING
+✖ GitPulse.sh MISSING
+✖ GitSentinels.sh MISSING
+✖ SysWatch.sh MISSING
+✖ fireTriad.sh MISSING
+NukeProof sweep complete.
+----------------------------------------
+--------------------------------------------------
+[2026-01-28 09:04:36] CodexChain ignition — system-wide reflex event triggered by Operator Maverick.
+Reflex count   : 0
+Crown count    : 0
+Total scripts  : 1
+Ignition ROAR  : BOM
+CodexChain: Recovery log updated successfully.
+[2026-01-28 09:04:36] BOM — Cockpit Growth Event Logged.

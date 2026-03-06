@@ -1,0 +1,38 @@
+Delta_X-1/
+│
+├── Orchestrator/
+│   ├── main.py
+│   ├── job_router.py              # domain classifier lives here
+│   ├── job_models.py
+│   ├── dispatcher.py              # species → worker routing
+│   ├── queue.py                   # internal job queue abstraction
+│   │
+│   ├── jobsource/                 # Feeder Crown
+│   │   ├── adapter.py             # polls /tasks/available
+│   │   ├── submission.py          # POST /tasks/submit
+│   │   ├── backoff.py             # retry logic
+│   │   └── transform.py           # external → internal job format
+│   │
+│   ├── scout/                     # Scout Crown
+│   │   ├── crown.py               # intelligence loop
+│   │   └── recon.py               # /tasks/high_value polling
+│   │
+│   ├── revenue/                   # Revenue Crown
+│   │   ├── crown.py               # emit revenue events
+│   │   └── ledger.py              # durable storage
+│   │
+│   └── telemetry/                 # Telemetry Crown
+│       ├── events.py
+│       └── metrics.py
+│
+├── Workers/
+│   ├── alpha/                     # analyze
+│   │   └── worker.py
+│   ├── muse/                      # compress_prompt
+│   │   └── worker.py
+│   └── worker/                    # transform
+│       └── worker.py
+│
+└── config/
+    ├── settings.py
+    └── secrets.json
